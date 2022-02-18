@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color: white;
+}
+.head-div {
+ text-align: center;
+ padding: 20%;
+ padding-top: 2%;
+ padding-bottom: 3%;   
+}
+.link-div{
+    text-align: center;
+    padding: 20%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.alink{
+    text-align: center;
+    margin-top: 1px;
+    padding: 20px 0;
+    max-width: 590px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #efd173;
+    color: black;
+    text-decoration: none;
+}
+.alink:hover{
+    color: #efd173;
+    background-color: black;
+    border: 2px solid;
+    border-radius: 2px;
+    border-color: white;
+}
+.copyright{
+    text-align: center;
+}
