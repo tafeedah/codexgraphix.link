@@ -1,23 +1,33 @@
-body{
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+
+body {
     background-color: black;
 }
+
 .head-div {
- text-align: center;
- padding: 20%;
- padding-top: 2%;
- padding-bottom: 3%;
- color: white;
+    text-align: center;
+    padding: 20%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    color: white;
 }
-i{
+
+p {
+    font-family: 'Alegreya', serif;
+}
+
+i {
     color: #efd173;
 }
-.link-div{
+
+.link-div {
     text-align: center;
     padding: 20%;
     padding-top: 1%;
     padding-bottom: 1%;
 }
-.alink{
+
+.alink {
     text-align: center;
     margin-top: 1px;
     padding: 20px 0;
@@ -29,14 +39,16 @@ i{
     color: black;
     text-decoration: none;
 }
-.alink:hover{
+
+.alink:hover {
     color: #efd173;
     background-color: black;
     border: 2px solid;
     border-radius: 2px;
     border-color: white;
 }
-.copyright{
+
+.copyright {
     text-align: center;
     color: white;
 }
