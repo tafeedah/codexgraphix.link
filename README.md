@@ -1,2 +1,2 @@
 # codexgraphix.link
-<a href="https://tafeedah.github.io/codexgraphix.link/" target="_blank">Visit site</a>
+<a target="_blank" href="https://tafeedah.github.io/codexgraphix.link/">Visit site</a>
